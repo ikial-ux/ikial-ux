@@ -1,4 +1,23 @@
-## Hi there 👋
+# 👋 Hi, there 👋
+
+🚀 **Web Developer & AI Enthusiast**  
+
+### 🔹 About Me  
+- 💻 I work with **WordPress** and everything related to it.  
+- 📚 Currently pursuing a **Specialization in Artificial Intelligence and Big Data**.  
+- 🧠 Learning **Python** & **React** to expand my skills.  
+
+### 🌟 What I'm Working On  
+- 🏗️ Improving my **React & Python** projects.  
+- 🤖 Exploring **Machine Learning & Data Science**.  
+
+### 📌 Projects  
+🔗 [Traffic Light Portfolio](https://traffic-light-portfolio.vercel.app/)  
+
+### 📫 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/ilyas-kial-developer/) | [GitHub](https://github.com/ikial-ux)  
+
+🚀 **Always learning and building!**  
 
 <!--
 **ikial-ux/ikial-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
