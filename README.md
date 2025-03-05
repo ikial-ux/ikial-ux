@@ -1,5 +1,5 @@
 # 👋 Hi, there 👋
-https://pixel-profile.vercel.app/api/github-stats?username=<username>
+https://pixel-profile.vercel.app/api/github-stats?username=ikial-ux
 🚀 **Web Developer & AI Enthusiast**  
 
 ### 🔹 About Me  
