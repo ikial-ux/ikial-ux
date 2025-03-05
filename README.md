@@ -18,7 +18,9 @@
 [LinkedIn](https://www.linkedin.com/in/ilyas-kial-developer/) | [GitHub](https://github.com/ikial-ux)  
 
 🚀 **Always learning and building!**  
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@llkv/30-nites-of-code)  
+  ![@llkv #30NitesOfCode](https://www.codedex.io/api/petStatus?user=llkv)
 <!--
 **ikial-ux/ikial-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
